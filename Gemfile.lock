@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    heuristic-csv (0.0.1.alpha)
+    heuristic-csv (0.0.2.alpha)
 
 GEM
   remote: http://rubygems.org/
