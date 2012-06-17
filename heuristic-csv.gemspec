@@ -4,7 +4,7 @@ require File.expand_path('../lib/heuristic-csv/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Andrea Mostosi"]
   gem.email         = ["andrea.mostosi@zenkay.net"]
-  gem.description   = %q{}
+  gem.description   = %q{Try to overcome the exception CSV::MalformedCSVError and read the data anyway}
   gem.summary       = %q{CSV extension}
   gem.homepage      = "https://github.com/zenkay/heuristic-csv"
 
